@@ -1,7 +1,7 @@
 Inky Starter
 ==
 
-A simple HTML Email Boilerplate/Workflow /w Zurb Foundation for Emails
+A simple HTML Email boilerplate/workflow for Zurb Foundation for Emails
 
 Usage:
 --
